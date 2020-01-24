@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="ad_tag_url">https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&amp;amp;iu=/124319096/external/ad_rule_samples&amp;amp;ciu_szs=300x250&amp;amp;ad_rule=1&amp;amp;impl=s&amp;amp;gdfp_req=1&amp;amp;env=vp&amp;amp;output=vmap&amp;amp;unviewed_position_start=1&amp;amp;cust_params=deployment%3Ddevsite%26sample_ar%3Dpremidpost&amp;amp;cmsid=496&amp;amp;vid=short_onecue&amp;amp;correlator=</string>
+</resources>
