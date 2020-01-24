@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sushil.test">
+    package="com.sushil.VideoPlayer">
 <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity" android:screenOrientation="landscape"
+        <activity
+            android:name="com.sushil.VideoPlayer.MainActivity"
+            android:screenOrientation="landscape"
             android:theme="@style/AppTheme.NoActionBar"
             android:configChanges="orientation|screenSize|layoutDirection">
             <intent-filter>
@@ -20,7 +22,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-3940256099942***~********" />
     </application>
 
 </manifest>
